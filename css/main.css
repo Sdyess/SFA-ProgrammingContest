@@ -114,3 +114,7 @@ a:hover {
   .leader:hover{
       background-color: #613192!important;
   }
+
+  .nav-item a.nav-link {
+      color: black!important;
+  }
